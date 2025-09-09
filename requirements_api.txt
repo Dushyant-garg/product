@@ -1,0 +1,12 @@
+# FastAPI Dependencies for AWS Documentation Analyzer API
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# Existing dependencies (from your main project)
+# autogen-agentchat
+# autogen-ext
+# openai
+# Add your other existing dependencies here
